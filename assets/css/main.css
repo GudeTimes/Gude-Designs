@@ -2735,7 +2735,7 @@ input[type="button"]:disabled,
 }
 
 #header h1 {
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(255, 255, 255, 0.8);
   font-size: 1.35em;
   line-height: 1.75em;
   margin: 0;
@@ -2753,11 +2753,11 @@ input[type="button"]:disabled,
 }
 
 #footer .icons a {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.7);
 }
 
 #footer .copyright {
-  color: rgba(255, 255, 255, 0.4);
+  color: rgba(255, 255, 255, 0.7);
   font-size: 0.8em;
   list-style: none;
   margin: 1em 0 0 0;
@@ -2765,7 +2765,7 @@ input[type="button"]:disabled,
 }
 
 #footer .copyright li {
-  border-left: solid 1px rgba(255, 255, 255, 0.25);
+  border-left: solid 1px rgba(255, 255, 255, 0.7);
   display: inline-block;
   line-height: 1em;
   margin-left: 0.75em;
